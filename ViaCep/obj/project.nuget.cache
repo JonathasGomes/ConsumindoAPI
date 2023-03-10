@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ZauI3QEfVLWqCDOE6qW4ALixj7alZqERtS3VP1DGCeCi67wXrg6Ru8YzWEPE9X4qjL8OzP/gx1aatOdHH0OhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vikitão\\source\\repos\\ViaCep\\ViaCep\\ViaCep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vikitão\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Vikitão\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
